@@ -1,4 +1,4 @@
-# VAR-Analysis; SVAR Analysis
+# VAR-SVAR Model Analysis
 
 USING R 
 
